@@ -2,8 +2,8 @@ This repository contains video guides for some tasks in RNAcanvas Code.
 
 - [Copying and pasting a structure from RNAfold](#copying-and-pasting-a-structure-from-rnafold)
 - [Inputting a CT file from mfold](#inputting-a-ct-file-from-mfold)
-- [Copying and pasting sequence(s) from GenBank](#copying-and-pasting-sequences-from-GenBank)
-
+- [Copying and pasting sequence(s) from GenBank](#copying-and-pasting-sequences-from-genbank)
+- 
 - [How to save a drawing](#how-to-save-a-drawing)
 
 ### Copying and pasting a structure from RNAfold
