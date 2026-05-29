@@ -5,6 +5,7 @@ This repository contains video guides for some tasks in RNAcanvas Code.
 - [Copying and pasting sequence(s) from GenBank](#copying-and-pasting-sequences-from-genbank)
 - 
 - [How to save a drawing](#how-to-save-a-drawing)
+- [How to open a saved drawing](#how-to-open-a-saved-drawing)
 
 ### Copying and pasting a structure from RNAfold
 
@@ -21,3 +22,7 @@ https://github.com/user-attachments/assets/323d1ecc-baed-4eb3-a2e2-5d4d2146c4a4
 ### How to save a drawing
 
 https://github.com/user-attachments/assets/eae1468c-6e56-4896-b025-4aee4d99772e
+
+### How to open a saved drawing
+
+https://github.com/user-attachments/assets/071b4478-5ac4-4e14-b8cf-8c1dd4bfe709
