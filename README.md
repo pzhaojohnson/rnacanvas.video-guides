@@ -9,6 +9,8 @@ This repository contains video guides for some tasks in RNAcanvas Code.
 - [How to save a drawing](#how-to-save-a-drawing)
 - [How to open a saved drawing](#how-to-open-a-saved-drawing)
 - 
+- [How to export in PNG format (macOS)](#how-to-export-in-png-format-macos)
+- 
 - [How to export a drawing in SVG format](#how-to-export-a-drawing-in-svg-format)
 - [How to export a drawing to PowerPoint (with some help from Inkscape)](#how-to-export-a-drawing-to-powerpoint-with-some-help-from-inkscape)
 
@@ -35,6 +37,12 @@ https://github.com/user-attachments/assets/eae1468c-6e56-4896-b025-4aee4d99772e
 ### How to open a saved drawing
 
 https://github.com/user-attachments/assets/071b4478-5ac4-4e14-b8cf-8c1dd4bfe709
+
+### How to export in PNG format (macOS)
+
+Press Shift+Command+4 and select the area of the drawing that you would like to create a PNG image of.
+
+https://github.com/user-attachments/assets/b6d98916-4b9c-46f8-a89c-4876c6d698f0
 
 ### How to export a drawing in SVG format
 
