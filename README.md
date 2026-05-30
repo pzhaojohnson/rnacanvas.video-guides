@@ -8,6 +8,8 @@ This repository contains video guides for some tasks in RNAcanvas Code.
 - 
 - [How to save a drawing](#how-to-save-a-drawing)
 - [How to open a saved drawing](#how-to-open-a-saved-drawing)
+- 
+- [How to export a drawing in SVG format](#how-to-export-a-drawing-in-svg-format)
 
 ### Copying and pasting a structure from RNAfold
 
@@ -32,3 +34,7 @@ https://github.com/user-attachments/assets/eae1468c-6e56-4896-b025-4aee4d99772e
 ### How to open a saved drawing
 
 https://github.com/user-attachments/assets/071b4478-5ac4-4e14-b8cf-8c1dd4bfe709
+
+### How to export a drawing in SVG format
+
+https://github.com/user-attachments/assets/7b2b0169-b4c0-4db8-bd44-26d5b6d9e396
