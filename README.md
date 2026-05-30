@@ -1,4 +1,4 @@
-This repository contains video guides for some tasks in the RNAcanvas Code app.
+This repository contains video guides for some tasks in the <b>RNAcanvas Code</b> app.
 
 - [Copying and pasting a structure from RNAfold](#copying-and-pasting-a-structure-from-rnafold)
 - [Inputting a CT file from mfold](#inputting-a-ct-file-from-mfold)
