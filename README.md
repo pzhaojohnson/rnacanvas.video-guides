@@ -4,6 +4,8 @@ This repository contains video guides for some tasks in RNAcanvas Code.
 - [Inputting a CT file from mfold](#inputting-a-ct-file-from-mfold)
 - [Copying and pasting sequence(s) from GenBank](#copying-and-pasting-sequences-from-genbank)
 - 
+- [Drawing from R2DT (e.g., ribosomal RNA structures)](#drawing-from-r2dt-eg-ribosomal-rna-structures)
+- 
 - [How to save a drawing](#how-to-save-a-drawing)
 - [How to open a saved drawing](#how-to-open-a-saved-drawing)
 
@@ -18,6 +20,10 @@ https://github.com/user-attachments/assets/52102098-6b43-4999-b26c-777bd03390bc
 ### Copying and pasting sequence(s) from GenBank
 
 https://github.com/user-attachments/assets/323d1ecc-baed-4eb3-a2e2-5d4d2146c4a4
+
+### Drawing from R2DT (e.g., ribosomal RNA structures)
+
+https://github.com/user-attachments/assets/d23043d9-605e-47e0-a3b7-5b347e84ac48
 
 ### How to save a drawing
 
