@@ -10,6 +10,7 @@ This repository contains video guides for some tasks in RNAcanvas Code.
 - [How to open a saved drawing](#how-to-open-a-saved-drawing)
 - 
 - [How to export a drawing in SVG format](#how-to-export-a-drawing-in-svg-format)
+- [How to export a drawing to PowerPoint (with some help from Inkscape)](#how-to-export-a-drawing-to-powerpoint-with-some-help-from-inkscape)
 
 ### Copying and pasting a structure from RNAfold
 
@@ -38,3 +39,13 @@ https://github.com/user-attachments/assets/071b4478-5ac4-4e14-b8cf-8c1dd4bfe709
 ### How to export a drawing in SVG format
 
 https://github.com/user-attachments/assets/7b2b0169-b4c0-4db8-bd44-26d5b6d9e396
+
+### How to export a drawing to PowerPoint (with some help from Inkscape)
+
+<b>Workflow:</b>
+
+Export drawing in SVG format &rarr; open exported SVG image in Inkscape &rarr; convert all text elements to paths &rarr; re-save converted SVG image (in plain SVG format) &rarr; drag-n'-drop converted SVG image into PowerPoint &rarr; "Convert to Shape"
+
+[https://www.youtube.com/watch?v=wZ-zqEo5EE8](https://www.youtube.com/watch?v=wZ-zqEo5EE8)
+
+[![YouTube video link](https://img.youtube.com/vi/wZ-zqEo5EE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=wZ-zqEo5EE8)
