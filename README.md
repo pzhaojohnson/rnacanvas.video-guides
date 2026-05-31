@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/cde65acd-1d96-427a-a4ed-2c4115ab7591
 
 ### How to find complements to the selected bases
 
-https://github.com/user-attachments/assets/6baf6369-af67-43ce-983a-5d70a316f08b
+https://github.com/user-attachments/assets/885eff46-292e-4b03-ad36-883e3253aa15
 
 ### How to "trace" a structure
 
