@@ -14,6 +14,8 @@ This repository contains video guides for some tasks in the <b>RNAcanvas Code</b
 - [How to export a drawing in SVG format](#how-to-export-a-drawing-in-svg-format)
 - [How to export a drawing to PowerPoint (with some help from Inkscape)](#how-to-export-a-drawing-to-powerpoint-with-some-help-from-inkscape)
 - 
+- [How to select continuous subsequences of bases](#how-to-select-continuous-subsequences-of-bases)
+- 
 - [How to search for motifs in a structure](#how-to-search-for-motifs-in-a-structure)
 - [How to find complements to the selected bases](#how-to-find-complements-to-the-selected-bases)
 - 
@@ -62,6 +64,12 @@ Export drawing in SVG format &rarr; open exported SVG image in Inkscape &rarr; c
 [https://www.youtube.com/watch?v=wZ-zqEo5EE8](https://www.youtube.com/watch?v=wZ-zqEo5EE8)
 
 [![YouTube video link](https://img.youtube.com/vi/wZ-zqEo5EE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=wZ-zqEo5EE8)
+
+### How to select continuous subsequences of bases
+
+Hold the `Shift` key while selecting elements to add elements to the current selection (without deselecting the previously selected elements).
+
+https://github.com/user-attachments/assets/63288f5c-d573-4b17-ad2d-9607986841af
 
 ### How to search for motifs in a structure
 
