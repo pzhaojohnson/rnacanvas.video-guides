@@ -14,6 +14,8 @@ This repository contains video guides for some tasks in the <b>RNAcanvas Code</b
 - [How to export a drawing in SVG format](#how-to-export-a-drawing-in-svg-format)
 - [How to export a drawing to PowerPoint (with some help from Inkscape)](#how-to-export-a-drawing-to-powerpoint-with-some-help-from-inkscape)
 - 
+- [How to search for motifs in a structure](#how-to-search-for-motifs-in-a-structure)
+- 
 - [How to "trace" a structure](#how-to-trace-a-structure)
 
 ### Copying and pasting a structure from RNAfold
@@ -59,6 +61,10 @@ Export drawing in SVG format &rarr; open exported SVG image in Inkscape &rarr; c
 [https://www.youtube.com/watch?v=wZ-zqEo5EE8](https://www.youtube.com/watch?v=wZ-zqEo5EE8)
 
 [![YouTube video link](https://img.youtube.com/vi/wZ-zqEo5EE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=wZ-zqEo5EE8)
+
+### How to search for motifs in a structure
+
+https://github.com/user-attachments/assets/cde65acd-1d96-427a-a4ed-2c4115ab7591
 
 ### How to "trace" a structure
 
