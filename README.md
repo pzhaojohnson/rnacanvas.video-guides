@@ -16,6 +16,8 @@ This repository contains video guides for some tasks in the <b>RNAcanvas Code</b
 - 
 - [How to select continuous subsequences of bases](#how-to-select-continuous-subsequences-of-bases)
 - 
+- [How to pair and unpair bases (and rearrange bases)](#how-to-pair-and-unpair-bases-and-rearrange-bases)
+- 
 - [How to search for motifs in a structure](#how-to-search-for-motifs-in-a-structure)
 - [How to find complements to the selected bases](#how-to-find-complements-to-the-selected-bases)
 - 
@@ -70,6 +72,10 @@ Export drawing in SVG format &rarr; open exported SVG image in Inkscape &rarr; c
 Hold the `Shift` key while selecting elements to add elements to the current selection (without deselecting the previously selected elements).
 
 https://github.com/user-attachments/assets/63288f5c-d573-4b17-ad2d-9607986841af
+
+### How to pair and unpair bases (and rearrange bases)
+
+https://github.com/user-attachments/assets/64e90fab-46a6-4410-921e-32b75925876b
 
 ### How to search for motifs in a structure
 
