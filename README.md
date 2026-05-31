@@ -15,6 +15,7 @@ This repository contains video guides for some tasks in the <b>RNAcanvas Code</b
 - [How to export a drawing to PowerPoint (with some help from Inkscape)](#how-to-export-a-drawing-to-powerpoint-with-some-help-from-inkscape)
 - 
 - [How to search for motifs in a structure](#how-to-search-for-motifs-in-a-structure)
+- [How to find complements to the selected bases](#how-to-find-complements-to-the-selected-bases)
 - 
 - [How to "trace" a structure](#how-to-trace-a-structure)
 
@@ -65,6 +66,10 @@ Export drawing in SVG format &rarr; open exported SVG image in Inkscape &rarr; c
 ### How to search for motifs in a structure
 
 https://github.com/user-attachments/assets/cde65acd-1d96-427a-a4ed-2c4115ab7591
+
+### How to find complements to the selected bases
+
+https://github.com/user-attachments/assets/6baf6369-af67-43ce-983a-5d70a316f08b
 
 ### How to "trace" a structure
 
