@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/8b736206-27ce-4168-b1f3-ef2527f1a517
 
 ### How to export in PNG format (macOS)
 
-Press Shift+Command+4 and select the area of the drawing that you would like to create a PNG image of.
+Press `Shift+Command+4` and select the area of the drawing that you would like to create a PNG image of.
 
 https://github.com/user-attachments/assets/b6d98916-4b9c-46f8-a89c-4876c6d698f0
 
