@@ -9,6 +9,7 @@ This repository contains video guides for some tasks in the <b>RNAcanvas Code</b
 - [How to save a drawing](#how-to-save-a-drawing)
 - [How to open a saved drawing](#how-to-open-a-saved-drawing)
 - 
+- [How to export in PNG format (Windows)](#how-to-export-in-png-format-windows)
 - [How to export in PNG format (macOS)](#how-to-export-in-png-format-macos)
 - 
 - [How to export a drawing in SVG format](#how-to-export-a-drawing-in-svg-format)
@@ -46,6 +47,12 @@ https://github.com/user-attachments/assets/eae1468c-6e56-4896-b025-4aee4d99772e
 ### How to open a saved drawing
 
 https://github.com/user-attachments/assets/071b4478-5ac4-4e14-b8cf-8c1dd4bfe709
+
+### How to export in PNG format (Windows)
+
+Press `Windows key+Shift+S` to open the Snipping Tool and select the area to image.
+
+https://github.com/user-attachments/assets/8b736206-27ce-4168-b1f3-ef2527f1a517
 
 ### How to export in PNG format (macOS)
 
